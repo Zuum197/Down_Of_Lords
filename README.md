@@ -1,39 +1,41 @@
 # Down Of Lords
 
-![Logo ou Imagem Representativa](URL_da_Imagem)
+![Logo](URL_da_Imagem)
 
-**Down Of Lords** é um emocionante jogo de mundo aberto em 2D desenvolvido na Godot 4, combinando o poder da linguagem C# com a flexibilidade do Gdscript. Explore um vasto mundo, desvende segredos e domine seus inimigos em uma experiência de jogo envolvente.
+**Down Of Lords** é um envolvente jogo 2D de mundo aberto, desenvolvido na Godot 4, com C# e Gdscript. Explore um vasto mundo, enfrente desafios estratégicos e construa seu caminho para a glória em um reino inspirado na América do Sul.
 
-## Visão Geral
+## Principais Características
 
-- **Tecnologia**: Desenvolvido na Godot 4 com linguagem C# e Gdscript
-- **Tipo de Jogo**: Jogo 2D de mundo aberto
-- **Recursos Visuais**: Gráficos e recursos visuais de alta qualidade criados no Godot 4
+- **Sobrevivência e Coleta**: Comece do zero e colete recursos como madeira, pedras e alimentos. Utilize a engine Godot 4 para criar equipamentos de coleta e aventurar-se nas florestas.
 
-## Funcionalidades Principais
+- **Comércio Global e Interdependência**: Em um mundo onde cidades se apoiam mutuamente, utilize a programação em C# para construir cidades autossustentáveis ou estabeleça alianças para garantir que todas as necessidades sejam atendidas.
 
-- Lista das funcionalidades e recursos-chave do *Down Of Lords*:
-  - Mundo aberto expansivo para explorar.
-  - Combate envolvente e estratégico.
-  - História envolvente e missões emocionantes.
-  - Gráficos 2D impressionantes criados no Godot 4.
-  - [Inclua outras funcionalidades específicas do seu jogo.]
+- **Assentamento e Governança**: Crie e desenvolva seu próprio assentamento. Atraia novos habitantes e cuide de suas necessidades, fornecendo abrigo, comida, vestimenta e muito mais, com base em princípios de desenvolvimento de jogos em Gdscript.
 
-## Como Começar
+- **Serviços e Produção**: Monte produções internas e organize caravanas para abastecer sua cidade com recursos. Personalize seu grid de melhorias usando a Godot 4 e escolha o que produzir.
 
-- [Inclua instruções sobre como iniciar o jogo assim que o menu estiver pronto.]
+- **Política e Impérios**: As famílias ricas ocupam cargos influentes nos impérios avançados. Utilize métodos de jogo em C# para acumular riqueza e influência e ingressar nas fileiras da política.
+
+- **Progressão e Herdeiros**: Desbloqueie habilidades e prepare herdeiros para continuar sua jornada após a morte do personagem principal, utilizando a engine Godot 4.
+
+- **Interações Sociais**: Socialize em tabernas, selecione cônjuges ou recrute mercenários, incorporando elementos de narrativa interativa com Gdscript. Forje alianças e desavenças em um reino dinâmico.
+
+- **Cercos e Conflitos**: Enfrente cercos em cidades inimigas, use máquinas de cerco e até capture lordes inimigos em batalhas épicas com base em mecânicas de combate desenvolvidas na Godot 4.
+
+## Como Iniciar
+
+- [Instruções de jogo serão fornecidas quando o menu estiver pronto.]
 
 ## Capturas de Tela
 
-![Menu Principal](URL_da_Captura_de_Tela1)
-![Seleção de Personagem](URL_da_Captura_de_Tela2)
-![Cena de Combate](URL_da_Captura_de_Tela3)
+![Menu](URL_da_Captura1)
+![Assentamento](URL_da_Captura2)
+![Batalha](URL_da_Captura3)
 
 ## Contribuição
 
-- Se você deseja contribuir para o desenvolvimento do *Down Of Lords*, consulte nosso guia de contribuição [aqui](URL_do_Guia_de_Contribuição).
+- Consulte nosso guia de contribuição [aqui](URL_do_Guia_de_Contribuição).
 
 ## Agradecimentos
 
-- Agradecemos a todos os colaboradores e membros da equipe que contribuíram para tornar este projeto possível.
-# Down_Of_Lords
+- Agradecemos a todos os colaboradores que tornaram este projeto possível.
